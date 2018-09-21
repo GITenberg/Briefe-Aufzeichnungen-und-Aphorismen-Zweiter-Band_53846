@@ -1,0 +1,25 @@
+_repo: Briefe-Aufzeichnungen-und-Aphorismen-Zweiter-Band_53846
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marc, Franz
+    birthdate: 1880
+    deathdate: 1916
+    gutenberg_agent_id: '47569'
+    url: http://www.gutenberg.org/2009/agents/47569
+description: ''
+gutenberg_issued: '2016-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53846'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marc, Franz, 1880-1916'
+- !lcsh 'Painters -- Germany -- Correspondence'
+- !lcc 'ND'
+- GITenberg
+title: Briefe, Aufzeichnungen und Aphorismen. Zweiter Band
+url: http://www.gutenberg.org/ebooks/53846
